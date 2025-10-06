@@ -59,11 +59,10 @@ Gaussian Splatting models can be integrated into common creative pipelines using
 
 * **Blender**:
 
-  * [Blender Gaussian Splatting Add-on](https://github.com/graphdeco-inria/gaussian-splatting-blender)
   * [Blender Kiri Engine Add-on](https://github.com/Kiri-Innovation/3dgs-render-blender-addon)
-* **After Effects**:
+* **After Effects / Davinci Reolve **:
 
-  * [Volinga AE Plugin](https://volinga.ai/) – Gaussian Splat/NeRF integration for motion graphics and compositing.
+  * [irrealix - Plugin](https://aescripts.com/authors/f-l/irrealix/) – Gaussian Splat/NeRF integration for motion graphics and compositing.
 * **Other 3D & VFX Tools**:
 
   * [Unreal Engine Plugin (3DGS)](https://github.com/graphdeco-inria/gaussian-splatting/tree/main/unreal)
