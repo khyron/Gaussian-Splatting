@@ -60,7 +60,7 @@ Gaussian Splatting models can be integrated into common creative pipelines using
 * **Blender**:
 
   * [Blender Kiri Engine Add-on](https://github.com/Kiri-Innovation/3dgs-render-blender-addon)
-* **After Effects / Davinci Reolve **:
+* **After Effects / Davinci Reolve**:
 
   * [irrealix - Plugin](https://aescripts.com/authors/f-l/irrealix/) – Gaussian Splat/NeRF integration for motion graphics and compositing.
 * **Other 3D & VFX Tools**:
