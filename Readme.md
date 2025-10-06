@@ -6,7 +6,7 @@ This repository hosts **Gaussian Splatting models** for real-time 3D rendering a
 
 ## 📦 Releases
 
-Precompiled **Gaussian Splatting model files** (`.ply`) are available under the [Releases](./releases) section.
+Precompiled **Gaussian Splatting model files** (`.ply`) are available under the [Releases](https://github.com/khyron/Gaussian-Splatting/releases) section.
 Download them to test directly in supported viewers, pipelines, or convert them into alternative formats for your workflow.
 
 ---
@@ -44,7 +44,7 @@ For Gaussian Splatting models, the PLY file typically contains:
 You can use the following tools to **edit, convert, or visualize** PLY files:
 
 * **[Supersplat](https://github.com/antimatter15/supersplat)** – Tool for viewing and editing Gaussian Splatting models in the browser.
-* **[Splat-Transform](https://github.com/antimatter15/splat-transform)** – Utilities for converting Gaussian Splat models into different formats.
+* **[Splat-Transform](https://github.com/playcanvas/splat-transform)** – Utility for converting Gaussian Splat models into different formats.
 * **[MeshLab](https://www.meshlab.net/)** – Open-source system for processing and editing 3D triangular meshes.
 * **[CloudCompare](https://www.danielgm.net/cc/)** – 3D point cloud and mesh processing software.
 * **[Blender](https://www.blender.org/)** – Free and open-source 3D creation suite (supports `.ply` import/export).
@@ -60,6 +60,7 @@ Gaussian Splatting models can be integrated into common creative pipelines using
 * **Blender**:
 
   * [Blender Gaussian Splatting Add-on](https://github.com/graphdeco-inria/gaussian-splatting-blender)
+  * [Blender Kiri Engine Add-on](https://github.com/Kiri-Innovation/3dgs-render-blender-addon)
 * **After Effects**:
 
   * [Volinga AE Plugin](https://volinga.ai/) – Gaussian Splat/NeRF integration for motion graphics and compositing.
@@ -91,6 +92,4 @@ Gaussian Splatting models can be integrated into common creative pipelines using
 
 ---
 
-## 📄 License
 
-Include your license information here (e.g., MIT, GPL, CC-BY).
